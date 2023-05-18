@@ -1,0 +1,3 @@
+﻿  C++.cpp
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_4\C++\C++\C++.cpp(47,43): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  C++.vcxproj -> C:\Users\setInterval\Desktop\C++\semestr_2\LR_4\C++\x64\Debug\C++.exe
